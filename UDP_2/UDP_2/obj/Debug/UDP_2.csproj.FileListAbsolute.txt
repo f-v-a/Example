@@ -1,0 +1,14 @@
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\bin\Debug\UDP_2.exe.config
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\bin\Debug\UDP_2.exe
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\bin\Debug\UDP_2.pdb
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.csprojAssemblyReference.cache
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.csproj.CoreCompileInputs.cache
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.exe
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.pdb
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\bin\Debug\UDP_2.exe.config
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\bin\Debug\UDP_2.exe
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\bin\Debug\UDP_2.pdb
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.csprojAssemblyReference.cache
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.csproj.CoreCompileInputs.cache
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.exe
+D:\Study\Разработка РР\Примеры\3-яя лаба\UDP_2\UDP_2\obj\Debug\UDP_2.pdb

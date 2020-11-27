@@ -1,0 +1,14 @@
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\bin\Debug\Second.exe.config
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\bin\Debug\Second.exe
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\bin\Debug\Second.pdb
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.csprojAssemblyReference.cache
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.exe
+D:\Учеба\Нижегородова\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.pdb
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\bin\Debug\Second.exe.config
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\bin\Debug\Second.exe
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\bin\Debug\Second.pdb
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.csprojAssemblyReference.cache
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.exe
+D:\Study\Разработка РР\Примеры\3-яя лаба\Second\Second\obj\Debug\Second.pdb
