@@ -1,0 +1,14 @@
+D:\Учеба\Нижегородова\Примеры\server2\server2\bin\Debug\server2.exe.config
+D:\Учеба\Нижегородова\Примеры\server2\server2\bin\Debug\server2.exe
+D:\Учеба\Нижегородова\Примеры\server2\server2\bin\Debug\server2.pdb
+D:\Учеба\Нижегородова\Примеры\server2\server2\obj\Debug\server2.csprojAssemblyReference.cache
+D:\Учеба\Нижегородова\Примеры\server2\server2\obj\Debug\server2.csproj.CoreCompileInputs.cache
+D:\Учеба\Нижегородова\Примеры\server2\server2\obj\Debug\server2.exe
+D:\Учеба\Нижегородова\Примеры\server2\server2\obj\Debug\server2.pdb
+D:\Учеба\Нижегородова\Примеры\Server\server2\bin\Debug\server2.exe.config
+D:\Учеба\Нижегородова\Примеры\Server\server2\bin\Debug\server2.exe
+D:\Учеба\Нижегородова\Примеры\Server\server2\bin\Debug\server2.pdb
+D:\Учеба\Нижегородова\Примеры\Server\server2\obj\Debug\server2.csprojAssemblyReference.cache
+D:\Учеба\Нижегородова\Примеры\Server\server2\obj\Debug\server2.csproj.CoreCompileInputs.cache
+D:\Учеба\Нижегородова\Примеры\Server\server2\obj\Debug\server2.exe
+D:\Учеба\Нижегородова\Примеры\Server\server2\obj\Debug\server2.pdb

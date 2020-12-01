@@ -1,0 +1,10 @@
+D:\Учеба\Нижегородова\2_1_клиент\client\client\bin\Debug\client.exe.config
+D:\Учеба\Нижегородова\2_1_клиент\client\client\bin\Debug\client.exe
+D:\Учеба\Нижегородова\2_1_клиент\client\client\bin\Debug\client.pdb
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.Form1.resources
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.exe
+D:\Учеба\Нижегородова\2_1_клиент\client\client\obj\Debug\client.pdb
